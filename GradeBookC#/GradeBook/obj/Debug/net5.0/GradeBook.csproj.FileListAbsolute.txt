@@ -1,0 +1,16 @@
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\OneDrive\OneDrive - Arggo\Desktop\C#\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
